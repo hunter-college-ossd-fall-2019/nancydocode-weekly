@@ -1,3 +1,3 @@
-This repository belongs to **_Nancy_** and contains weekly blogs written by **_Nancy Yoon_**  
-for a course in Open Source software development.
+This repository belongs to **Nancy Yoon** and contains weekly blogs written by **Nancy Yoon**  
+for a course in _Open Source software development_.
 
