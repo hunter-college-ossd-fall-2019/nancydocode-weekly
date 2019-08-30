@@ -19,6 +19,6 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  2   | link to my contribution    | Blog Edit    |   I fixed a broken link.    |
+|  blank   | link to my contribution    | Blog Edit    |   blank    |
 |     |     |     |      |
 |     |     |     |      |
