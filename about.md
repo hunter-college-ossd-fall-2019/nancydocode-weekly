@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-You should put some information about you here.
+Hello, I am a second BA degree student at City University of New York (CUNY) - Hunter College studying Computer Science (and also learning new language and culture since I moved to NYC from South Korea a few years ago).
 
 ### More Information
 
