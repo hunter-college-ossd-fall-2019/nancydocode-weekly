@@ -5,7 +5,7 @@
 # CUSTOMIZE
 # Name of your site (displayed in the header)
 # This should be your name or nickname.
-name: Nancy Yoon (Boyeong Yoon 윤보영)
+name: Nancy Yoon 윤보영
 
 # CUSTOMIZE
 # Short bio or description about you (displayed in the header)
@@ -27,9 +27,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github:    nancydocode
-  instagram:
-  linkedin:
+  github: nancydocode
+  instagram: nancydocode
+  linkedin: n-yoon
   pinterest:
   twitter:
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
