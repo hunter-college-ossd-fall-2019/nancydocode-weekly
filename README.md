@@ -1,1 +1,1 @@
-This repository belongs to _nancydocode_ and contains [weekly blogs](https://hunter-college-ossd-fall-2019.github.io/nancydocode-weekly/about/) written by _Nancy Yoon_ for a course in **Open Source**.
+This repository belongs to `nancydocode` and contains [weekly blogs](https://hunter-college-ossd-fall-2019.github.io/nancydocode-weekly/about/) written by _Nancy Yoon_ for a course in **Open Source**.
