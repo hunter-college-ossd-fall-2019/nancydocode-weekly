@@ -25,14 +25,15 @@ permalink: /about/
  * _Ernest Hemingway_
    > In order to write about life, first you must live it.
 
-#### Music
- * Eddie Higgins Trio
+#### Music 
+ * Eddie Higgins Trio - Autumn Leaves
  * Erik Satie - Gymnopédie No.1
  * Debussy - Arabesque No.1
+ * Amy Winehous
  
 #### Artists
  * Claude Monet
  * Banksy  
  * Ryan Mcginley 
   
- ![](https://github.com/hunter-college-ossd-fall-2019/nancydocode-weekly/blob/gh-pages/images/ryan_mcginley.jpg)
+ ![‘PURPLE BEACON’, 2011 ( ©RYAN MCGINLEY, COURTESY ALISON JACQUES GALLERY, LONDON )(https://github.com/hunter-college-ossd-fall-2019/nancydocode-weekly/blob/gh-pages/images/ryan_mcginley.jpg)
