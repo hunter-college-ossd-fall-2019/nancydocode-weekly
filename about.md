@@ -9,15 +9,15 @@ permalink: /about/
 
 # Favorite
 #### Movies
- * _About Time_  
- * _The Secret Life of Walter Mitty_  
- * _Good Will Hunting_
- * _Billy Elliot_
- * _The Intouchable_
- * _The Shawshank Redemption_
- * _The Fault in Our Stars_
- * _Eternal Sunshine of the Spotless Mind_
- * _Let the Right One In_
+ * About Time 
+ * The Secret Life of Walter Mitty
+ * Good Will Hunting
+ * Billy Elliot
+ * The Intouchable
+ * The Shawshank Redemption
+ * The Fault in Our Stars
+ * Eternal Sunshine of the Spotless Mind
+ * Let the Right One In
  
 #### Writers
  * Pomnyun 
