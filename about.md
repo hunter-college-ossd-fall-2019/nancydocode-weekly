@@ -10,10 +10,10 @@ permalink: /about/
 ----------------------------------------------|
 <sub>_About Time_</sub>                       |                    
 <sub>_The Secret Life of Walter Mitty_</sub>  |
-* Good Will Hunting               
-* Billy Elliot                    
-* The Intouchable                 
-* The Shawshank Redemption        
-* The Fault in Our Stars          
-* When Harry Met Sally            
+<sub>_Good Will Hunting_</sub>                |
+<sub>_Billy Elliot_</sub>                     |                  
+<sub>_The Intouchable_</sub>                  |                 
+<sub>_The Shawshank Redemption_</sub>         |     
+<sub>_The Fault in Our Stars_</sub>           |          
+<sub>_When Harry Met Sally_</sub>             |           
 
