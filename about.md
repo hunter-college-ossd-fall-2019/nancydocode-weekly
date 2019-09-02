@@ -30,8 +30,9 @@ permalink: /about/
  * Erik Satie - Gymnopédie No.1
  * Debussy - Arabesque No.1
  
- #### Painters
+ #### Artists
   * Claude Monet
+  * Banksy  
+  * Ryan Mcginley 
   
-  #### Potographer
-  * Ryan Mcginley ![](https://github.com/hunter-college-ossd-fall-2019/nancydocode-weekly/blob/gh-pages/images/ryan_mcginley.jpg)
+  ![](https://github.com/hunter-college-ossd-fall-2019/nancydocode-weekly/blob/gh-pages/images/ryan_mcginley.jpg)
