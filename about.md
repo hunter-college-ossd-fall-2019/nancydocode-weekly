@@ -27,8 +27,11 @@ permalink: /about/
 
 #### Music
  * Eddie Higgins Trio
- * Erik Satie
+ * Erik Satie - Gymnopédie No.1
+ * Debussy - Arabesque No.1
  
  #### Painters
   * Claude Monet
-
+  
+  #### Potographer
+  * Ryan Mcginley !()
