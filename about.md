@@ -31,7 +31,7 @@ permalink: /about/
  * Eddie Higgins Trio - Autumn Leaves
  * Erik Satie - Gymnopédie No.1
  * Debussy - Arabesque No.1
- * Amy Winehous
+ * Amy Winehouse
  
 #### Artists
  * Claude Monet
