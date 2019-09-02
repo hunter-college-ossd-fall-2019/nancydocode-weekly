@@ -10,7 +10,7 @@ permalink: /about/
 * Favorite Movies
   > _About Time_
   > _The Secret Life of Walter Mitty_
-> * _Good Will Hunting_
+  > _Good Will Hunting_
 > * _Billy Elliot_
 > * _The Intouchable_
 > * _The Shawshank Redemption_
