@@ -16,5 +16,7 @@ permalink: /about/
  * _The Intouchable_
  * _The Shawshank Redemption_
  * _The Fault in Our Stars_ 
- * _When Harry Met Sally_        
+ * _When Harry Met Sally_
 
+#### Writers
+ * _Ernest Hemingway_
