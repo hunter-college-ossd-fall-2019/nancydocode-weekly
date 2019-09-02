@@ -8,6 +8,7 @@ permalink: /about/
 
 ## Her Favorite...
 ### Movies|
+----------|
   * _About Time_
   * _The Secret Life of Walter Mitty_
   * _Good Will Hunting_
