@@ -36,4 +36,4 @@ permalink: /about/
  * Banksy  
  * Ryan Mcginley 
   
- ![‘PURPLE BEACON’, 2011 ( ©RYAN MCGINLEY, COURTESY ALISON JACQUES GALLERY, LONDON )](https://github.com/hunter-college-ossd-fall-2019/nancydocode-weekly/blob/gh-pages/images/ryan_mcginley.jpg)
+ ![‘PURPLE BEACON’, 2011 ( ©RYAN MCGINLEY, COURTESY ALISON JACQUES GALLERY, LONDON )](https://user-images.githubusercontent.com/30683150/64101494-ffce8580-cd3b-11e9-9d61-16d8d288269c.jpg)
