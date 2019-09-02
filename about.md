@@ -21,5 +21,5 @@ permalink: /about/
 #### Writers
  * _Pomnyun_
  * _Bopjong_ 
- > “Non-possession” does not mean having nothing. It does not mean to live as a penniless beggar. Rather than meaning having nothing, it is the idea of not possessing what we do not need. The more we possess, The more we have attachments.
+   > “Non-possession” does not mean having nothing. It does not mean to live as a penniless beggar. Rather than meaning having nothing, it is the idea of not possessing what we do not need. The more we possess, The more we have attachments.
  * _Ernest Hemingway_
