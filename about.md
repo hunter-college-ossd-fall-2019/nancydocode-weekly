@@ -17,6 +17,7 @@ permalink: /about/
  * _The Shawshank Redemption_
  * _The Fault in Our Stars_
  * _Eternal Sunshine of the Spotless Mind_
+ * _Let the Right One In_
  
 #### Writers
  * _Pomnyun_ 
