@@ -27,4 +27,8 @@ permalink: /about/
 
 #### Music
  * Eddie Higgins Trio
- * Erik Satie - Gymnopédie No.1
+ * Erik Satie
+ 
+ #### Painters
+  * Claude Monet
+
