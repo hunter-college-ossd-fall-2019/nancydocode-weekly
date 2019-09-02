@@ -34,4 +34,4 @@ permalink: /about/
   * Claude Monet
   
   #### Potographer
-  * Ryan Mcginley !(https://github.com/hunter-college-ossd-fall-2019/nancydocode-weekly/blob/gh-pages/images/ryan_mcginley.jpg)
+  * Ryan Mcginley ![](https://github.com/hunter-college-ossd-fall-2019/nancydocode-weekly/blob/gh-pages/images/ryan_mcginley.jpg)
