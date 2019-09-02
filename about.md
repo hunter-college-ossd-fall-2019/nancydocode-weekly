@@ -19,4 +19,6 @@ permalink: /about/
  * _When Harry Met Sally_
 
 #### Writers
+ * _Pomnyun_
+ * _Bopjong_
  * _Ernest Hemingway_
