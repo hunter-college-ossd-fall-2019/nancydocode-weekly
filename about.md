@@ -24,6 +24,8 @@ permalink: /about/
    > `"Be the driver of your own happiness."`
  * Bopjong 
    > `“Non-possession does not mean having nothing. It does not mean to live as a penniless beggar. Rather than meaning having nothing, it is the idea of not possessing what we do not need. The more we possess, The more we have attachments."`
+ * Leo Tosltoy
+   > `"Everyone thinks of changing the world, but no one thinks of changing himself."`
  * Ernest Hemingway
    > `"In order to write about life, first you must live it."`
 
