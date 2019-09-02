@@ -8,8 +8,11 @@ permalink: /about/
   
   
 Her favorite...  
+
 movies|
 ------|
 About Time |
-The Secret Life of Walter Mitty |Good Will Hunting, Billy Elliot, The Intouchable, The Shawshank Redemption, The Fault in Our Stars, When Harry Met Sally
+The Secret Life of Walter Mitty |
+
+Good Will Hunting, Billy Elliot, The Intouchable, The Shawshank Redemption, The Fault in Our Stars, When Harry Met Sally
 
