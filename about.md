@@ -15,8 +15,9 @@ permalink: /about/
  * _Billy Elliot_
  * _The Intouchable_
  * _The Shawshank Redemption_
- * _The Fault in Our Stars_ 
-
+ * _The Fault in Our Stars_
+ * _Eternal Sunshine of the Spotless Mind_
+ 
 #### Writers
  * _Pomnyun_ 
    > Be the driver of your own happiness.
