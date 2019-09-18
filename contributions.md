@@ -19,6 +19,6 @@ Replace the first row below with your contribution.
 
 | Week #       | Contribution (Link)  | Type  | Description |
 |---|:---|:---|:---|
-|  blank   | link to my contribution    | Blog Edit    |   blank    |
+| 3 | [link](https://www.openstreetmap.org/changeset/74404500) | OpenStreetMap Edit | Added a local barber shop and a subway station |
 |     |     |     |      |
 |     |     |     |      |
