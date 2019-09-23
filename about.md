@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-**Nancy** is a 31 years old second BA degree(Her first degree is in Screen Writing) student at City University of New York(CUNY) - Hunter College studying Computer Science while learning a new language and culture at the same time. She was born in midtown Manhattan, New York City, but grew up in Seoul, South Korea since she was 5-year-old, and moved back to NYC a few years ago. She likes writing, reading books, watching movies, taking photos, riding a bicycle, hiking, swimming and running in Central Park.
+**Nancy** is a 31 years old second BA degree(Her first degree is in Screenwriting) student at City University of New York(CUNY) - Hunter College studying Computer Science while learning a new language and culture at the same time. She was born in midtown Manhattan, New York City, but grew up in Seoul, South Korea since she was 5-year-old, and moved back to NYC a few years ago. She likes writing, reading books, watching movies, taking photos, riding a bicycle, hiking, swimming and running in Central Park.
 
 
 # Favorite
