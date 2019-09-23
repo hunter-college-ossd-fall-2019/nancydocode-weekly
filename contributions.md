@@ -20,5 +20,5 @@ Replace the first row below with your contribution.
 | Week # | Contribution (Link) | Type | Description |
 |---|:---|:---|:---|
 | 3 | [link](https://www.openstreetmap.org/changeset/74404500) | OpenStreetMap Edit | Added a local barber shop and a subway station |
-|     |     |     |      |
+| 4 | [link](https://www.openstreetmap.org/changeset/74786743#map=19/40.77031/-73.95781) | OpenStreetMap Edit | Added two local hair salons |
 |     |     |     |      |
