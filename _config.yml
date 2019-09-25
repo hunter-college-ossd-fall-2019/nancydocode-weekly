@@ -88,5 +88,3 @@ exclude:
   - Gemfile.lock
   - LICENSE
   
-emoji:
-  src: "/assets/images/emoji"
