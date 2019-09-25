@@ -88,5 +88,5 @@ exclude:
   - Gemfile.lock
   - LICENSE
   
-plugins:
-  - jemoji
+emoji:
+  src: "/assets/images/emoji"
