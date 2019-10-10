@@ -19,6 +19,8 @@ Replace the first row below with your contribution.
 
 | Week # | Contribution (Link) | Type | Description |
 |---|:---|:---|:---|
-| 3 | [link](https://www.openstreetmap.org/changeset/74404500) | OpenStreetMap | Added a local barber shop and a subway station |
-| 4 | [link](https://www.openstreetmap.org/changeset/74786743#map=19/40.77031/-73.95781) | OpenStreetMap | Added two local hair salons |
-|     |     |     |      |
+| 1 | [week 1]() | Blog | Wrote first blog entry and set up my blog |
+| 3 | [week 3](https://www.openstreetmap.org/changeset/74404500) | OpenStreetMap  | Added local barber shop and subway station |
+| 4 | [week 4](https://www.openstreetmap.org/changeset/74786743#map=19/40.77031/-73.95781) | OpenStreetMap | Added two local hair salons |
+| 5 | [week 5]() | Blog | Edited classmates' blogs |
+| 5 | [week 5]() | Team Workflow | |
