@@ -24,3 +24,4 @@ Replace the first row below with your contribution.
 | 5 | [Github](https://github.com/adityaarakeri/Interview-solved/pull/7) | · Added an interview question (Python) |
 | 8 | [OpenStreetMap](https://www.openstreetmap.org/edit#map=19/40.77301/-73.95819) | · Added two local green carts |
 | | | ![Screen Shot 2019-10-24 at 10 42 39 AM](https://user-images.githubusercontent.com/30683150/67496938-32fe0880-f64b-11e9-97ce-3bea4c494479.png) |
+| 9 | [OpenStreetMap](https://www.openstreetmap.org/node/6918676615#map=19/40.77794/-73.95147)<br> [OpenStreetMap](https://www.openstreetmap.org/changeset/76248010) | · Added one green cart<br> · Added one cake shop |
